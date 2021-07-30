@@ -49,7 +49,7 @@ From this point, a minimal rails server is running with a redis and postgreSQL c
 
 Create a new Heroku app. In the CLI, set the Heroku stack to container (for Docker)-
 ```
-  heroku stack: set container
+  heroku stack:set container
 ```
 
 Since Heroku only uses Docker (and not docker-compose), only the Web container will be pushed.
