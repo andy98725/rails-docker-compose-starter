@@ -1,17 +1,17 @@
 # About
 
 This is a minimalist guide to setting up a docker-compose environment for Rails.
-It includes a container ofr PostgreSQL and a container for Redis.
-Assuming you have Docker installed, this *should* work out of the box.
+It includes a container for PostgreSQL and a container for Redis.
 
-# Components
+
+# Dependencies
 
  * Docker
  * Docker-compose 
  * Rails 
  * PostgreSQL 
  * Redis 
- * Heroku 
+ * Heroku (hosting)
 
 
 # Setup Instructions
